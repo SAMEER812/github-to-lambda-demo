@@ -14,3 +14,4 @@ def custom_lambda(event, context):
     df = pd.DataFrame(data=d)
     print(df)
     print('Demo Completed!!!!!!!')
+    print('Demo Completed!!!!!!!')
